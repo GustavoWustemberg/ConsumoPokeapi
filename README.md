@@ -3,7 +3,7 @@
 <h2>Running</h2>
 <ul>
     <li>Run `pip install -r requirements.txt` to install the packages</li>
-    <li>Run `py app,py`</li>
+    <li>Run `py app.py`</li>
 </ul>
 <p>After following these steps, the script will start from the menu:</p>
 <img width="60%" src="./assets/menu.png" />
